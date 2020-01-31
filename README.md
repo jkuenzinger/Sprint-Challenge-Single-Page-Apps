@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: The reaosn you would want to use Client side routing in alot of different applications and websites. Is because it intially loads the whole site and state and then when you process requests after it's much smoother transistion and animations. The problem is the whole website takes longer to load intially but delivers a better user experience once loaded. Another con is that it takes much more coade to build a client side routed page. 
+
 
 ## Project Set Up
 
