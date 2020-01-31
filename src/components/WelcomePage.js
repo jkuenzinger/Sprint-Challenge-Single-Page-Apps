@@ -7,7 +7,7 @@ export default function WelcomePage() {
     <section className="welcome-page">
       <header>
         <h1>Welcome to the ultimate fan site!</h1>
-       <Link t0='/Characters'>
+       <Link to='/Characters'>
          <button>Characters</button>
        </Link>
        <Link to="/Search">
